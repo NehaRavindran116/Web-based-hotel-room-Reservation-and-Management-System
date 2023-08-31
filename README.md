@@ -33,8 +33,6 @@ https://drive.google.com/file/d/1-gb0K6VOMoOpAC76v8up95BYtSSXiMO7/view?usp=drive
 
 Contributions are always welcome! Since this is an example project, I'd invite you to clone and rename it to suit your needs.
 
-See `contributing.md` for ways to get started.
 
-Please adhere to this project's `code of conduct`.
 
 
